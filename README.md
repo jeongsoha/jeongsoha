@@ -8,18 +8,30 @@
 <!-- 기술스택 -->
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
+  <!-- Backend -->
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp                  <!-- Java -->
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp              <!-- Spring -->
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp      <!-- Javascript -->
   <br>
-  <img src="https://img.shields.io/badge/ORACLE-F80000?style=flat-square&logo=oracle&logoColor=white"/></a>&nbsp              <!-- Oracle -->
-  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp                <!-- MySQL -->
+  
+  <!-- Frontend -->
+  <!--넥사-->
+  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp      <!-- Javascript -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp                <!-- HTML -->
   <br>
+  
+  <!-- Database -->
+  <img src="https://img.shields.io/badge/ORACLE-F80000?style=flat-square&logo=oracle&logoColor=white"/></a>&nbsp              <!-- Oracle -->
+  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp                <!-- MySQL -->
+  <br>
+  
+  <!-- Version Control -->
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/></a>&nbsp                    <!-- Git -->
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp              <!-- GitHub -->
   <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black"/></a>&nbsp <!-- Apache Tomcat -->
   <br>
+  
+  <!-- Development Tools -->
+  <!--DBeaver-->
   <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/></a>&nbsp          <!-- Anaconda -->
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/></a>&nbsp            <!-- Jenkins -->
 </p>
