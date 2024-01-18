@@ -66,12 +66,11 @@
 <!-- stat -->
 <h3 align="center">🌈 My GitHub Stats 🌈</h3>
 ![Soha's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongsoha&show_icons=true&theme=merko)
-
 <br><br>
 
 <!-- Hits -->
 <p align="center">
-  <a href="https://hits.seeyoufarm.com"><img src="https://github.com/jeongsoha/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter"/></a>                        
+  <a href="https://hits.seeyoufarm.com"><img src="https://github.com/jeongsoha/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%jeongsoha%2Fhit-counter"/></a>                        
 </p>   
 
 <br><br>
