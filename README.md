@@ -65,8 +65,8 @@
 
 <!-- stat -->
 <h3 align="center">🌈 My GitHub Stats 🌈</h3>
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jeongsoha&amp;theme=merko&amp;show_icons=true" alt="Jeongsoha&#39;s GitHub stats">
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=jeongsoha&amp;theme=merko&amp;show_icons=true" alt="Jeongsoha&#39;s GitHub stats">
 </p>
 <br><br>
 
