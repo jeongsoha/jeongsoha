@@ -65,7 +65,7 @@
 
 <!-- stat -->
 <h3 align="center">🌈 My GitHub Stats 🌈</h3>
-![Soha's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongsoha&show_icons=true&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongsoha&show_icons=true&theme=radical)
 <br><br>
 
 <!-- Hits -->
