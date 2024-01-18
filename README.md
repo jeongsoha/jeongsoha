@@ -1,7 +1,7 @@
 <a href="https://sarah-log.tistory.com/" target="_blank">
 
 <!-- 티스토리 링크-->
-<img src="https://img.shields.io/badge/Tistory-000000?style=Tistory&logo=Tistory&logoColor=#000000"/></a>
+<img src="https://img.shields.io/badge/Tistory-FFFFFF?style=Tistory&logo=Tistory&logoColor=#FFFFFF"/></a>
 
 <!-- 자격증 -->
 
