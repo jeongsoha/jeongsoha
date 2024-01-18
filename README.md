@@ -8,7 +8,7 @@
 <br><br>
 
 <!-- 기술스택 -->
-<h3 align="center">📚 Tech Stack 📚</h3>
+<h3 align="center">Tech Stack</h3>
 <p align="center">
   <!-- Backend -->
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp                  <!-- Java -->
@@ -37,7 +37,7 @@
 <br><br>
 
 <!-- 자격증 -->
-<h3 align="center">🤔 자격증 🤔</h3>
+<h3 align="center">💻 자격증 💻</h3>
 <h4 align="center">- 정보처리기사</h4>
 <h4 align="center">- SQLD</h4>
 <h4 align="center">- 컴퓨터 활용능력 1급</h4>
@@ -45,7 +45,7 @@
 <br><br>
 
 <!-- 티스토리 링크-->
-<h3 align="center">💻 DEV's log 💻</h3>
+<h3 align="center">DEV's log</h3>
 <p align="center">
       <!-- 티스토리 -->
       <a href="https://sarah-log.tistory.com" target="_blank">
@@ -64,17 +64,18 @@
 <br><br>
 
 <!-- stat -->
-<h3 align="center">🌈 My GitHub Stats 🌈</h3>
+<h3 align="center">My GitHub Stats</h3>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=jeongsoha&amp;theme=merko&amp;show_icons=true" alt="Jeongsoha&#39;s GitHub stats">
 </p>
 <br><br>
 
 <!-- Hits -->
+<!--
 <p align="center">
     <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeongsoha%2Fhit-counter"/></a>                        
 </p>   
-
+-->
 <br><br>
 
 
