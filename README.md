@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Believe%20in%yourself&fontSize=70)
 
 <!-- It's me! -->
 <h3 align="center">⚡ It's me! ⚡</h3>
@@ -64,9 +64,8 @@
 <br><br>
 
 <!-- stat -->
-🌈 My GitHub Stats 🌈
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongsoha&show_icons=true&theme=merko)
-<img src="https://github-readme-stats.vercel.app/api?username=jeongsoha&show_icons=true&theme=merko" />
+<h3 align="center">🌈 My GitHub Stats 🌈</h3>
+![Soha's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongsoha&show_icons=true&theme=merko)
 <br><br>
 <!-- Hits -->
 <p align="center">
