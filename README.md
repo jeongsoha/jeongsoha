@@ -65,8 +65,8 @@
 
 <!-- stat -->
 <h3 align="center">🌈 My GitHub Stats 🌈</h3>
-    <!--![Jeongsoha's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongsoha&show_icons=true&theme=vue)-->
-    <a href="https://github-readme-stats.vercel.app/api?username=jeongsoha&show_icons=true&theme=vue"></a>
+  <!--  <a href="https://github-readme-stats.vercel.app/api?username=jeongsoha&show_icons=true&theme=merko"></a>-->
+     [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jeongsoha)](https://github.com/anuraghazra/github-readme-stats)
 <br><br>
 
 <!-- Hits -->
