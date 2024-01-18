@@ -1,16 +1,18 @@
-<a href="https://sarah-log.tistory.com/" target="_blank">
+
 
 <!-- 티스토리 링크-->
-<img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=#000000"/></a>  <https://sarah-log.tistory.com/>   
-   
+<a href="https://sarah-log.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=#000000"/></a>
+
+      
 <!-- 자격증 -->
 ### 자격증
 - 정보 처리 기사
 - SQLD
-- 컴퓨터 활용능력 1급   
-   
+- 컴퓨터 활용능력 1급
+
+      
 <!-- stat -->
-*stat*
+*stat*   
 ![Soha's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongsoha&show_icons=true&theme=shadow_green)
 
 
