@@ -1,7 +1,7 @@
 <!-- It's me! -->
 <h3 align="center">⚡ It's me! ⚡</h3>
-<h5 align="center">Frontend Developer</h5>
-<h5 align="center">I'm growing everyday</h5>
+<h4 align="center">Frontend Developer</h4>
+<h4 align="center">I'm growing everyday</h4>
 
 <br><br>
 
@@ -28,9 +28,9 @@
 
 <!-- 자격증 -->
 <h3 align="center">🤔 자격증 🤔</h3>
-<h5 align="center">- 정보 처리 기사</h5>
-<h5 align="center">- SQLD</h5>
-<h5 align="center">- 컴퓨터 활용능력 1급</h5>
+<h4 align="center">- 정보 처리 기사</h4>
+<h4 align="center">- SQLD</h4>
+<h4 align="center">- 컴퓨터 활용능력 1급</h4>
 
 <br><br>
 
@@ -44,7 +44,7 @@
       
 <!-- stat -->
 <h3 align="center">My GitHub Stats</h3>
-![Soha's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongsoha&show_icons=true&theme=merko)
+![jeongsoha's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongsoha&show_icons=true&theme=ambient_gradient)
 
 <br><br>
          
