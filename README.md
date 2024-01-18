@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
 <!-- It's me! -->
 <h3 align="center">⚡ It's me! ⚡</h3>
 <h4 align="center">Frontend Developer</h4>
@@ -60,12 +62,12 @@
 </p>
 
 <br><br>
-      
-<!-- stat -->
-<h3 align="center">🌈 My GitHub Stats 🌈</h3>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongsoha&show_icons=true&theme=radical)
-<br><br>
 
+<!-- stat -->
+🌈 My GitHub Stats 🌈
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongsoha&show_icons=true&theme=merko)
+<img src="https://github-readme-stats.vercel.app/api?username=jeongsoha&show_icons=true&theme=merko" />
+<br><br>
 <!-- Hits -->
 <p align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter"/></a>                        
