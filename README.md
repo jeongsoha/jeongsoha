@@ -65,8 +65,9 @@
 
 <!-- stat -->
 <h3 align="center">🌈 My GitHub Stats 🌈</h3>
-  <!--  <a href="https://github-readme-stats.vercel.app/api?username=jeongsoha&show_icons=true&theme=merko"></a>-->
-     [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jeongsoha)](https://github.com/anuraghazra/github-readme-stats)
+<p>
+    <img src="https://github-readme-stats.vercel.app/api?username=jeongsoha&amp;theme=merko&amp;show_icons=true" alt="Jeongsoha&#39;s GitHub stats">
+</p>
 <br><br>
 
 <!-- Hits -->
