@@ -3,7 +3,8 @@
 <h5 align="center">Frontend Developer</h5>
 <h5 align="center">I'm growing everyday</h5>
 
-      
+<br><br>
+
 <!-- 기술스택 -->
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
@@ -22,27 +23,30 @@
   <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/></a>&nbsp          <!-- Anaconda -->
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/></a>&nbsp            <!-- Jenkins -->
 </p>
-      
+
+<br><br>
+
 <!-- 자격증 -->
 <h3 align="center">🤔 자격증 🤔</h3>
-<h5 align="center"></h5>- 정보 처리 기사</h5>
+<h5 align="center">- 정보 처리 기사</h5>
 <h5 align="center">- SQLD</h5>
 <h5 align="center">- 컴퓨터 활용능력 1급</h5>
 
+<br><br>
 
 <!-- 티스토리 링크-->
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
       <a href="https://sarah-log.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=#000000"/></a>
 </p>
-   
+
+<br><br>
       
 <!-- stat -->
 <h3 align="center">My GitHub Stats</h3>
 ![Soha's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongsoha&show_icons=true&theme=merko)
 
-
-
+<br><br>
          
 <!-- Hits -->
 <p align="center">
