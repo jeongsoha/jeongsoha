@@ -51,11 +51,11 @@
       </a>
       <!-- 깃랩 -->
       <a href="http://14.7.188.17:9080/webling/api-service#login-pane">
-        <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=GitLab&logoColor=#FC6D26"> 
+        <img src="https://img.shields.io/badge/GitLab-000000?style=for-the-badge&logo=GitLab&logoColor=#FC6D26"> 
       </a>
       <!-- 깃허브 -->
       <a href="https://github.com/jeongsoha">
-        <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=GitHub&logoColor=#181717">
+        <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=#181717">
     </a>
 </p>
 
