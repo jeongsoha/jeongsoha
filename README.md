@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <a href="https://sarah-log.tistory.com/" target="_blank">
-<img src="https://img.shields.io/badge/instagram-#E4405F?style=flat&logo=appveyor&logoColor=#FFFFFF"/></a>
+<img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=appveyor&logoColor=#FFFFFF"/></a>
 
 
 <!--
