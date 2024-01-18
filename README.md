@@ -12,7 +12,7 @@
 
 
 <!-- stat -->
-![Soha's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongsoha&show_icons=true&theme=ambient_gradient)
+![Soha's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongsoha&show_icons=true&theme=yue)
 
 
 
