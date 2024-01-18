@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <a href="https://sarah-log.tistory.com/" target="_blank">
-<img src="https://img.shields.io/badge/Tistory-FFFFFF?style=Tistory&logo=Tistory&logoColor=#000000"/></a>
+<img src="https://img.shields.io/badge/Tistory-000000?style=Tistory&logo=Tistory&logoColor=#000000"/></a>
 
 <!--
 **jeongsoha/jeongsoha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
