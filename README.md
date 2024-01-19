@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=FAED7D&height=300&section=header&text=Believe%20in%20yourself&fontSize=75)
+![header](https://capsule-render.vercel.app/api?type=wave&color=FAED7D&height=300&section=header&fontSize=75)
 
 <!-- It's me! -->
 <h3 align="center">⚡ It's me! ⚡</h3>
